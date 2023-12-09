@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\petla-while\petla-while\bin\Debug\petla-while.exe.config
+C:\Users\Student\source\repos\petla-while\petla-while\bin\Debug\petla-while.exe
+C:\Users\Student\source\repos\petla-while\petla-while\bin\Debug\petla-while.pdb
+C:\Users\Student\source\repos\petla-while\petla-while\obj\Debug\petla-while.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\petla-while\petla-while\obj\Debug\petla-while.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\petla-while\petla-while\obj\Debug\petla-while.exe
+C:\Users\Student\source\repos\petla-while\petla-while\obj\Debug\petla-while.pdb
