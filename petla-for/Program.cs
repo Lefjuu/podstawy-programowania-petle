@@ -4,13 +4,11 @@ class Program
 {
     static void Main()
     {
+        double result;
         for (int x = 0; x <= 10; x++)
         {
-            double y = Math.Sqrt(Math.Pow(3, 2)) * x;
-            Console.WriteLine($"Dla x = {x}, y = {y}");
+            result = Math.Sqrt(3) * x; // Obliczenie wartości funkcji y = root(3)*x
+            Console.WriteLine($"Dla x = {x}, y = {result}");
         }
-
-        Console.WriteLine("\nNaciśnij dowolny klawisz, aby zakończyć...");
-        Console.ReadKey();
     }
 }
